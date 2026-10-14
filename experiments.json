@@ -1,0 +1,46 @@
+[
+ {
+  "run": 1,
+  "macropixel": 1,
+  "focus_r": 2,
+  "bg_r": 8,
+  "regions": 8,
+  "iters": 30,
+  "flips": 10,
+  "enhancement": 1.0,
+  "image": "focus_work\\focus_run_1.png"
+ },
+ {
+  "run": 2,
+  "macropixel": 2,
+  "focus_r": 3,
+  "bg_r": 10,
+  "regions": 12,
+  "iters": 20,
+  "flips": 10,
+  "enhancement": 1.2,
+  "image": "focus_work\\focus_run_2.png"
+ },
+ {
+  "run": 3,
+  "macropixel": 4,
+  "focus_r": 4,
+  "bg_r": 12,
+  "regions": 16,
+  "iters": 15,
+  "flips": 10,
+  "enhancement": 0.9,
+  "image": "focus_work\\focus_run_3.png"
+ },
+ {
+  "run": 4,
+  "macropixel": 8,
+  "focus_r": 5,
+  "bg_r": 14,
+  "regions": 20,
+  "iters": 30,
+  "flips": 10,
+  "enhancement": 1.4,
+  "image": "focus_work\\focus_run_4.png"
+ }
+]
